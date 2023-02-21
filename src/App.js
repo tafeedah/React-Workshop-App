@@ -14,9 +14,9 @@ function App() {
          
 
 
-        
+      <input/>  
        
-     <Accordian/> 
+  
  
     </div>
       

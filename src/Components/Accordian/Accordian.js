@@ -1,6 +1,7 @@
 import React from 'react'
 import AccordianList from './AccordianList'
 
+
 function Accordian() {
 
   
@@ -11,10 +12,7 @@ function Accordian() {
 
 
        <AccordianList/>
-       <AccordianList/>
-       <AccordianList/>
-       <AccordianList/>
-     
+      
 
     </div>
   )

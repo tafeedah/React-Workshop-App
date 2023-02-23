@@ -11,11 +11,12 @@ function App() {
   return (
     <div  className="App">
 
-         
+         <h1>Hello, Codex</h1>
 
-
-      <input/>  
-       
+      <Accordian>
+      <p>Enter Password</p><input/>  
+      <button>Submit</button>
+       </Accordian>
   
  
     </div>

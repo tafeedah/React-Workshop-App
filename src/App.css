@@ -2,29 +2,38 @@
 
        width: 40rem;
        height: auto;
-       background-color: red;
        display: flex;
        flex-direction: column;
        gap: 8px;
        justify-content: center;
        align-items: center;
        cursor: pointer;
-       padding: 7px;
+       
 }
 
 .inner-accordian-con{
 
-     background-color: white;
+     background-color:#efd173;
      width: 50%;
      box-shadow: 0px 0px 10px rgba(0,0,0,0.434);
-     border-radius: 7px;
+     border-radius: 15px;
+     justify-content: center;
+     align-items: center;
+   
 }
 
 .h1-text{
+    text-align: center;
+    background-color: #efd173;
     border-bottom: 1px solid black;
 }
 
 .acc-text{
-
+      
       transform: scale(0,0);
+    
+}
+div p{
+    padding-left: 10px;
+    
 }
